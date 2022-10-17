@@ -4,4 +4,4 @@ if degQues==1:
     (tempQues*1.8)+32
 if degQues==0:
     (tempQues-32)*0.55
-print("Your converted temperature is: ", str(tempQues), " degrees")
+print(tempQues)
